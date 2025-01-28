@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+pydeck
+os  # facultatif, pas nécessaire dans requirements.txt (fait partie de Python standard)
